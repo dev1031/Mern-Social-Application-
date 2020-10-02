@@ -5,8 +5,8 @@ Making a social media application.
 
 # Build status
 <img alt="logo" src="https://img.shields.io/badge/build-passing-green?logo=appveyor&style=for-the-badge">
-<img alt="logo" src="https://img.shields.io/badge/serverdeploy-passing-blue?logo=heroku&style=for-the-badge">
-<img alt="logo" src="https://img.shields.io/badge/clientdeploy-passing-blue?logo=netlify&style=for-the-badge">
+<img alt="logo" src="https://img.shields.io/badge/server deploy-passing-blue?logo=heroku&style=for-the-badge">
+<img alt="logo" src="https://img.shields.io/badge/client deploy-passing-blue?logo=netlify&style=for-the-badge">
 
 # Code Style
 - Server side code **standard**
