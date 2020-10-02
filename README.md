@@ -13,7 +13,7 @@ Making a social media application.
 - Client side code **PascalCase** 
 
 # Screenshots
-![yelp](./yelp.png)
+![yelp](./page.png)
 
 
 # Tech/framework used
@@ -26,7 +26,7 @@ Making a social media application.
 
 # Features
 - All CRUD operations 
-- Post
+- user posts
 - Comments
 - Like
 - Follow 
