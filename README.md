@@ -23,6 +23,8 @@ Making a social media application.
 - [Mongo Db](https://www.mongodb.com/)
 - [React](https://reactjs.org/)
 - [React Router DOM](https://reactrouter.com/web/guides/quick-start)
+- [Netlify](https://www.netlify.com/)
+- [Heroku](https://www.heroku.com)
 
 # Features
 - All CRUD operations 
