@@ -24,7 +24,7 @@ Making a social media application.
 - [React](https://reactjs.org/)
 - [React Router DOM](https://reactrouter.com/web/guides/quick-start)
 - [Netlify](https://www.netlify.com/)
-- [Heroku](https://www.heroku.com)
+- [Heroku](https://www.heroku.com/)
 
 # Features
 - All CRUD operations 
